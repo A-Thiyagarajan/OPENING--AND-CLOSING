@@ -1,4 +1,4 @@
-# OPENING--AND-CLOSING
+# Exp-10- Record-OPENING--AND-CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
